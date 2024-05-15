@@ -366,7 +366,7 @@ margin-left: auto;
 .checkbox-icon:hover{
   border: var(--hover-color-blue) 2px solid;
 }
-.checkbox-input:focus + .checkbox-icon{
+.pcheckbox-inut:focus + .checkbox-icon{
   border: var(--hover-color-blue) 2px solid;
 }
 
@@ -790,6 +790,7 @@ ul {
 }
 .adressa {
   margin-right: 70px;
+  width: 231px;
 }
 .email-footer {
   display: flex;
