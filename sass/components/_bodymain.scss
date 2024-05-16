@@ -1,5 +1,5 @@
-body{
- font-family:$main-font;
+body {
+  font-family: $main-font;
   letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 14px;
@@ -8,19 +8,19 @@ body{
   padding: 0;
 }
 
-.container{
-   width: 1200px;
+.container {
+  width: 1200px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
-  padding-right: 15px;  
+  padding-right: 15px;
 }
 
 header {
   border-bottom: 1px #ececec solid;
-  & .container{
-     display: flex;
-  align-items: center;
+  & .container {
+    display: flex;
+    align-items: center;
   }
 }
 h1,
