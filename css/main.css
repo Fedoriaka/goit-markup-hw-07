@@ -148,7 +148,7 @@ ul {
   border-radius: 2px;
   width: 100%;
   height: 4px;
-  background: var(--hover-color-blue);
+  background: #2196f3;
   position: absolute;
   left: 0;
   bottom: 0;
